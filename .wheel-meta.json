@@ -1,0 +1,22 @@
+{
+  "wheel_id": 746,
+  "structure": "umbrella",
+  "slug": "toowoombahousepainting-117",
+  "project": "house-painting-toowoomba-cost-guide-8453b49ec38fcb7ab5c898d8880",
+  "parent_t1_ref": "toowoombahousepainting-158",
+  "node_role": "feeder",
+  "money_target": "toowoombahousepainting.com.au",
+  "primary_kw": "house painting toowoomba cost guide",
+  "intended_url": "https://aumedia.neocities.org/house-painting-toowoomba-cost-guide-8453b49ec38fcb7ab5c898d8880/",
+  "tier": "T2",
+  "writeback_nonce": "f82361820e4fd2ed",
+  "links": [
+    {
+      "target_url": "http://house-painting-toowoomba-seasonal-timing-bd375088c5120a49d6acb8.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "house painting toowoomba seasonal timing",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
